@@ -3,9 +3,6 @@ DropBox <- "E:/Dropbox"
 OutPath <- paste0(DropBox, "/Projects/PackardProject2014/LBSPR_GTGPaper/")
 WD <- "E:/GitRepos/LBSPR_ManuscriptCode"
 
-ADMBDir <- "E:/LBSPR_ADMB_Src/Copy2"
-OldADMBDir <- paste0(WD, "/RCode/OldModel/admb2")
-
 #########################################
 # LBSPR  Model - Hordyk et al 2015 ICES #
 #########################################
